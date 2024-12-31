@@ -1,19 +1,27 @@
 📷 Real-Time Activity Detection with YOLO 🚀
+
 Welcome to the Real-Time Activity Detection project! 🎉 This Python script uses the powerful YOLO model to detect objects and activities in real-time. Whether it’s spotting a running person, detecting a fall, or identifying a dangerous object like a knife, this project has got you covered — with instant email alerts! 📧
 
 ✨ Features
+
 ✅ Real-Time Object Detection
+
 Detect objects like people and dangerous items using YOLOv5.
 
 🏃 Activity Monitoring
 
 Running: Detects fast movement! 🏃‍♂️
+
 Falling: Alerts you when someone is lying near the ground. ⛑️
+
 Loitering: Flags prolonged presence in one area. 🕒
+
 🔪 Danger Detection
+
 Identifies dangerous objects like knives for safety alerts. ⚠️
 
 📧 Email Notifications
+
 Stay updated with instant alerts sent to your inbox. 💌
 
 🛠️ Setup
