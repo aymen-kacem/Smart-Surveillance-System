@@ -25,36 +25,10 @@ Identifies dangerous objects like knives for safety alerts. ⚠️
 Stay updated with instant alerts sent to your inbox. 💌
 
 🛠️ Setup
-
-Clone the Repo
-
-bash
-
-Copier le code
-
-git clone https://github.com/your-username/activity-detection-yolo.git
-
-cd activity-detection-yolo
-
-Install Dependencies
-
-bash
-
-Copier le code
-
 pip install opencv-python ultralytics
-
-Download YOLO Weights
-
-Place the yolov5s.pt file in the project directory.
-
 
 Configure Email Alerts
 Update the following in the script:
-
-python
-
-Copier le code
 
 SMTP_SERVER = 'smtp.gmail.com'
 
@@ -67,13 +41,6 @@ TO_EMAIL = 'recipient-email@example.com'  # Alert recipient
 🚀 Usage
 
 Run the Script
-
-
-bash
-
-Copier le code
-
-python activity_detection.py
 
 Watch the Magic! 🪄
 
@@ -130,9 +97,10 @@ We’d love your ideas and contributions! Feel free to fork the repo and create 
 
 Reach out to us:
 
-📩 Email: your-email@example.com
+📩 Email: aymenkacem2019@gmail.com
+💻 GitHub: aymen-kacem
 
-💻 GitHub: YourUsername
+
 
 
 Enjoy using Real-Time Activity Detection and keep your surroundings safe! 🌍✨
