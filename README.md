@@ -4,11 +4,11 @@ Welcome to the Real-Time Activity Detection project! 🎉 This Python script use
 
 ✨ Features
 
-✅ Real-Time Object Detection
+- ✅ Real-Time Object Detection
 
 Detect objects like people and dangerous items using YOLOv5.
 
-🏃 Activity Monitoring
+- 🏃 Activity Monitoring
 
 Running: Detects fast movement! 🏃‍♂️
 
@@ -16,15 +16,15 @@ Falling: Alerts you when someone is lying near the ground. ⛑️
 
 Loitering: Flags prolonged presence in one area. 🕒
 
-🔪 Danger Detection
+- 🔪 Danger Detection
 
 Identifies dangerous objects like knives for safety alerts. ⚠️
 
-📧 Email Notifications
+- 📧 Email Notifications
 
 Stay updated with instant alerts sent to your inbox. 💌
 
-🛠️ Setup
+- 🛠️ Setup
 pip install opencv-python ultralytics
 
 Configure Email Alerts
@@ -38,7 +38,7 @@ EMAIL_PASSWORD = 'your-password'          # App password for Gmail
 
 TO_EMAIL = 'recipient-email@example.com'  # Alert recipient
 
-🚀 Usage
+- 🚀 Usage
 
 Run the Script
 
@@ -56,20 +56,20 @@ Exit Anytime
 Hit q to stop the application. 🛑
 
 
-📜 How It Works
+- 📜 How It Works
 
 🔍 Object Detection
 
 YOLOv5 analyzes each frame from your webcam and identifies objects.
 
 
-🧠 Activity Analysis
+- 🧠 Activity Analysis
 
 Tracks movements to calculate speed and position.
 
 Detects abnormal activities like running, falling, or loitering.
 
-📧 Email Alerts
+- 📧 Email Alerts
 
 Sends an alert when specific events occur, such as:
 
@@ -77,7 +77,7 @@ A person is detected running or falling.
 
 A dangerous object like a knife is identified.
 
-🌟 What’s Next?
+- 🌟 What’s Next?
 
 ✨ Add more activities to monitor!
 
@@ -89,15 +89,16 @@ A dangerous object like a knife is identified.
 
 This project ensures rapid response in critical situations by combining real-time analysis with instant alerts. Perfect for personal safety, surveillance, and more. 🚔
 
-🤝 Contributing
+- 🤝 Contributing
 
 We’d love your ideas and contributions! Feel free to fork the repo and create a pull request. 💡
 
-📧 Questions?
+- 📧 Questions?
 
 Reach out to us:
 
 📩 Email: aymenkacem2019@gmail.com
+
 💻 GitHub: aymen-kacem
 
 
